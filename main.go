@@ -1,0 +1,4 @@
+packe main
+
+int main(){
+}
